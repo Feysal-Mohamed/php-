@@ -35,6 +35,7 @@ foreach($student_info as $value) {
 
 echo "<br>";
 
+
 foreach($student_info as $key => $value) {
     echo "$key: $value <br>";
 }

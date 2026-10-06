@@ -51,6 +51,8 @@ while (true) {
     $max++;
 }
 
+
+
 // 7. Highest Common Factor (HCF)
 echo "Task 7: HCF<br>";
 $a = 18; $b = 24; $hcf = 1;
